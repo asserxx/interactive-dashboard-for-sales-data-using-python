@@ -1,5 +1,6 @@
 # interactive-dashboard-for-sales-data-using-python
-##this analysis is for the sales of certain goods in a global superstore,the analysis is visualized in an intearctive dashboard
+## this analysis is for the sales of certain goods in a global superstore,the analysis is visualized in an intearctive dashboard
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asserxx/interactive-dashboard-for-sales-data-using-python/HEAD?urlpath=%2Fdoc%2Ftree%2Fdashboard_globalsuperstore.ipynb)
 # *click the launch button to see the ineractive dashboard*
 
 ### the code was saved as a jupyter notebook and the website used to display the interactive dashboard for any user that opens this Repositorie is mybinder.org
